@@ -1,10 +1,19 @@
 This GitHub repo includes two main datasets, namely ETTO and EToCVD which are collections of eye-tracking data to be used for research purposes on visual attention, visual saliency and, more generally computer vision tasks. 
 
+ETTO stands for Eye-Tracking Through Objects, it may want to represent a collection of eye-movement data over images containing objects and having homogeneous backgrounds. 
+
+EToCVD (Eye-Tracking of Colour Vision Deficiencies) was built to gather eye-movements over a sequence of still images with people with and without Colour Vision Deficiencies. 
+
+More details are provided in the Dataset Folders.
 
 # saliency
-Eye-tracking datasets published in various journal and/or conference papers
 
-if you use the datasets above please cite our following scientific publications:
+The above mentioned Eye-tracking datasets have been used to conduct experimental session and works on Visual Saliency. 
+They have been published in various journal and/or conference papers. 
+
+If you are interested in working on the topic, email me at alessandrobruno10 at gmail dot com 
+
+If you use the datasets above please cite our following scientific publications:
 
 @article{bruno2020multi,
   title={A Multi-Scale Colour and Keypoint Density-Based Approach for Visual Saliency Detection},
