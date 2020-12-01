@@ -4,6 +4,13 @@ ETTO stands for Eye-Tracking Through Objects, it may want to represent a collect
 
 EToCVD (Eye-Tracking of Colour Vision Deficiencies) was built to gather eye-movements over a sequence of still images with people with and without Colour Vision Deficiencies. 
 
+Down below an example of single object image and its fixation point map out of ETTO <p>
+<img src="/etto/ETTO_ALLSTIMULI/35InchBayFrontBlack__Curve_030_Rot_090_fhd.png" width=300px height=250px> <img src="/etto/ETTO_ALLFIXATIONMAPS/35InchBayFrontBlack__Curve_030_Rot_090_fhd.png" width=300px height=250px>
+<hr>
+Down below an example with a colourful image and its fixation point map out of EToCVD <p>
+<img src="/etocvd/ETOCVD_ALLSTIMULI/images/FruttaVerdura.jpeg" width=300px> <img src="/etocvd/ETOCVD_ALLFIXATIONMAPS/fixationMapsNoCVD/full/FruttaVerdura.jpeg" width=300px>
+<hr>
+
 More details are provided in the Dataset Folders.
 
 # saliency
