@@ -1,5 +1,8 @@
+This GitHub repo includes two main datasets, namely ETTO and EToCVD which are collections of eye-tracking data to be used for research purposes on visual attention, visual saliency and, more generally computer vision tasks. 
+
+
 # saliency
-Saliency code and datasets published in various journal and/or conference papers
+Eye-tracking datasets published in various journal and/or conference papers
 
 if you use the datasets above please cite our following scientific publications:
 
