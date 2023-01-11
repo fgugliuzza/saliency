@@ -1,7 +1,26 @@
-# saliency
-Saliency code and datasets published in various journal and/or conference papers
+This GitHub repo includes two main datasets, namely ETTO and EToCVD which are collections of eye-tracking data to be used for research purposes on visual attention, visual saliency and, more generally computer vision tasks. 
 
-if you use the datasets above please cite our following scientific publications:
+ETTO stands for Eye-Tracking Through Objects, it may want to represent a collection of eye-movement data over images containing objects and having homogeneous backgrounds. 
+
+EToCVD (Eye-Tracking of Colour Vision Deficiencies) was built to gather eye-movements over a sequence of still images with people with and without Colour Vision Deficiencies. 
+
+Down below an example of single object image and its fixation point map out of ETTO <p>
+<img src="/etto/ETTO_ALLSTIMULI/35InchBayFrontBlack__Curve_030_Rot_090_fhd.png" width=300px height=250px> <img src="/etto/ETTO_ALLFIXATIONMAPS/35InchBayFrontBlack__Curve_030_Rot_090_fhd.png" width=300px height=250px>
+<hr>
+Down below an example with a colourful image and its fixation point map out of EToCVD <p>
+<img src="/etocvd/ETOCVD_ALLSTIMULI/images/FruttaVerdura.jpeg" width=300px> <img src="/etocvd/ETOCVD_ALLFIXATIONMAPS/fixationMapsNoCVD/full/FruttaVerdura.jpeg" width=300px>
+<hr>
+
+More details are provided in the Dataset Folders.
+
+# saliency
+
+The above mentioned Eye-tracking datasets have been used to conduct experimental session and works on Visual Saliency. 
+They have been published in various journal and/or conference papers. 
+
+If you are interested in working on the topic, email me at alessandrobruno10 at gmail dot com 
+
+If you use the datasets above please cite our following scientific publications:
 
 @article{bruno2020multi,
   title={A Multi-Scale Colour and Keypoint Density-Based Approach for Visual Saliency Detection},
